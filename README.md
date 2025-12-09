@@ -2,8 +2,6 @@
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
 
-## Hi there 👋
-
 ![RiverGR's github stats](https://github-readme-stats.vercel.app/api?username=RiverGR&show_icons=true&theme=default&cache_seconds=1800)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiverGR&theme=default)
