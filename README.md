@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20%20RiverGR&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
-
-![RiverGR's github stats](https://github-readme-stats.vercel.app/api?username=RiverGR&show_icons=true&theme=default&cache_seconds=1800)
+![header](https://capsule-render.vercel.app/api?type=soft&color=8a2be2&height=220&section=header&text=Hi%20there👋%20I'm%20%20RiverGR&fontColor=d6ace6&fontSize=50&&fontAlign=center&animation=blink)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiverGR&theme=default)
 
@@ -8,13 +6,13 @@
 
 <!-- 기술 스택 뱃지 -->
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 <!-- 방문자 수 -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRiverGR)
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=9400d3&height=118&section=footer&animation=fadeIn)
 <!--
 **RiverGR/RiverGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
