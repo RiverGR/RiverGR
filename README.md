@@ -1,6 +1,8 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20RiverGR&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
+
 ## Hi there 👋
-### FrontEnd learning
-#### RiverGR
 
 ![RiverGR's github stats](https://github-readme-stats.vercel.app/api?username=RiverGR&show_icons=true&theme=default&cache_seconds=1800)
 
