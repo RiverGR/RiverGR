@@ -44,7 +44,6 @@ ___
   --havetolearn: "node.js" "react";
 }
 ```
-
 ___
 
 <div align="middle">
@@ -57,6 +56,7 @@ ___
 </div>
 
 ___
+
 <div align="middle">
   <h3>
     <img src="https://github.com/user-attachments/assets/530fabd7-d6eb-4d2f-8bc6-d289c7cea8ad" width="55" height="55" align="middle">
@@ -75,8 +75,6 @@ ___
   <a href="https://www.instagram.com/_1103__gr/">
     <img width="30" height="30" alt="Instagram" src="https://github.com/user-attachments/assets/d621a289-cc78-4a9b-9984-a857c42980b2" align=middle />
   </a>
-
-
 
   <p></p>
 
