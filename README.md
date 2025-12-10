@@ -5,7 +5,7 @@
 
 <h2>
   <img src="https://github.com/user-attachments/assets/5d6af9c0-79f6-457a-a8a6-179f4a4d875a" width="65" height="65" align="middle">
-  It is RiverGR's Page.
+  It is RiverGR's Page!
 </h2>
 
 <h3>
@@ -19,6 +19,20 @@
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <h4>
-  <img src="https://github.com/user-attachments/assets/b3150f74-43a5-450f-8630-3f67d435dc0c" width="55" height="55" align="middle">
+  <img src="https://github.com/user-attachments/assets/b86a44f6-129e-40e2-9db1-644268e8b3b6" width="55" height="55" align="middle">
   A little more about me...
 </h4>
+
+```css
+/* RiverGR's Delveloper Profile Disign */
+
+#RiverGR {
+  --languages: "HTML", "CSS";
+  --objective: "front-end developer";
+}
+
+.Tools {
+  --tools: "Git", "VS Code";
+  --havetolearn: "node.js" "react";
+}
+
