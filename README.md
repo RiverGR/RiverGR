@@ -43,9 +43,9 @@ ___
 
 ___
 
-<span>
+#### my links
+
 <a href="https://www.instagram.com/_1103__gr/">
-  <img src=>
+  <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c93ef93f-4af8-468a-aa53-483bd5f3c820" />
 </a>
-</span>
 
