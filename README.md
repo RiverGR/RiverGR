@@ -49,10 +49,12 @@ ___
 </h3>
 
 <a href="https://www.instagram.com/_1103__gr/">
-  <img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/c93ef93f-4af8-468a-aa53-483bd5f3c820" />
+  <img width="30" height="30" alt="instagram" src="https://github.com/user-attachments/assets/c93ef93f-4af8-468a-aa53-483bd5f3c820"/>
 </a>
 
+
+
 <a href="discord.com/users/412943982469840897">
-  <
+  <img width="30" height="30" alt="discord" src="https://github.com/user-attachments/assets/a379af56-7985-4bb3-90bc-77be4c6ce0d0"/>
 </a>
 
