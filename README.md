@@ -43,16 +43,16 @@ ___
 
 ___
 
-<h3>
-  <img src="https://github.com/user-attachments/assets/030590e8-7f24-40a0-be71-37cca9b56944" width="55" height="55" align="middle">
-  My links
-</h3>
 
-<a href="https://www.instagram.com/_1103__gr/">
-  <img width="30" height="30" alt="instagram" src="https://github.com/user-attachments/assets/c93ef93f-4af8-468a-aa53-483bd5f3c820"/>
-</a>
+### 💙 My links
 
-
+<div>
+  <a href="https://www.instagram.com/_1103__gr/">
+    <img width="30" height="30" alt="instagram" src="https://github.com/user-attachments/assets/c93ef93f-4af8-468a-aa53-483bd5f3c820"/>
+  </a>
+  <span>Instagram</span>
+</div>
+<p></p>
 
 <a href="discord.com/users/412943982469840897">
   <img width="30" height="30" alt="discord" src="https://github.com/user-attachments/assets/a379af56-7985-4bb3-90bc-77be4c6ce0d0"/>
