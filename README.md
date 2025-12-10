@@ -56,9 +56,14 @@ ___
 </div>
 
 ___
+<div align="middle">
+  <h3>
+    <img src="https://github.com/user-attachments/assets/530fabd7-d6eb-4d2f-8bc6-d289c7cea8ad" width="55" height="55" align="middle">
+    I'm learning!
+  </h3>
 
-<div>
-  <
+  <p><strong>📃 2025.11.18 ~ 2026.04.07
+  ESTsoft 11기 프론트엔드 개발자 부트캠프 📃</strong></p>
 </div>
 
 ___
