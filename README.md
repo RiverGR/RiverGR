@@ -2,12 +2,13 @@
   <img src="https://github.com/user-attachments/assets/43044ac1-2a1c-4ea5-8f63-53844ffe0562" width="80" height="80" align="middle">
   Welcome to my page!
   <img src="https://github.com/user-attachments/assets/43044ac1-2a1c-4ea5-8f63-53844ffe0562" width="80" height="80" align="middle">
-</h3>
+</h1>
 
-<h3 align="middle">
-  <img src="https://github.com/user-attachments/assets/5d6af9c0-79f6-457a-a8a6-179f4a4d875a" width="65" height="65" align="middle">
-  It is RiverGR's Page! / Front-end junior developer😊
-</h3>
+<div align="middle">
+  <img src="https://github.com/user-attachments/assets/5d6af9c0-79f6-457a-a8a6-179f4a4d875a" width="65" height="65">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&weight=500&size=22&pause=1000&color=CE9FFC&background=922D6A00&width=514&lines=It+is+RiverGR's+Page!+Front-end+junior+developer" alt="Typing SVG" />
+  </a>
+</div>
 
 ___
 
