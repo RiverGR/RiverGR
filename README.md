@@ -14,7 +14,7 @@
 
 <!-- 방문자 수 -->
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=9400d3&height=118&section=footer&animation=fadeOut)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=9400d3&height=118&section=footer&animation=fadeIn)
 
 <!--
 **RiverGR/RiverGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
