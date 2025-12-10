@@ -1,20 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=8a2be2&height=220&section=header&text=Hi%20there👋%20I'm%20%20RiverGR&fontColor=d6ace6&fontSize=50&&fontAlign=center&animation=blink)
+# ✨ Welcome to my page!
+**RiverGR • Front-End**
+
+___
+
+🌱 ***I’m currently learning ...***
+
+![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiverGR&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiverGR&theme=default)
 
-<!-- 기술 스택 뱃지 -->
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<!-- 방문자 수 -->
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=9400d3&height=118&section=footer&animation=fadeIn)
 
 <!--
 **RiverGR/RiverGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
