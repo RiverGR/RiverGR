@@ -1,5 +1,11 @@
-# 🍃 RiverGR's Page
-## Welcome to my Page!
+<h1>
+  <img src="https://github.com/user-attachments/assets/43044ac1-2a1c-4ea5-8f63-53844ffe0562" width="80" height="80" align="middle">
+  Welcome to my page!
+</h1>
+
+<h2>
+  It is RiverGR's Page.
+</h2>
 
 <h3>
   <img src="https://github.com/user-attachments/assets/63504dda-9285-4ddd-9fe2-781d06dabc33" width="50" height="50" align="middle">
