@@ -43,15 +43,20 @@ ___
 
 ___
 
+### OverView
+![RiverGR](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RiverGR&theme=apprentice)
+
+___
+
 
 ### 💙 My links
 
-<div>
-  <a href="https://www.instagram.com/_1103__gr/">
-    <img width="30" height="30" alt="instagram" src="https://github.com/user-attachments/assets/c93ef93f-4af8-468a-aa53-483bd5f3c820"/>
-  </a>
-  <span>Instagram</span>
-</div>
+<a href="https://www.instagram.com/_1103__gr/">
+  <img width="30" height="30" alt="Instagram" src="https://github.com/user-attachments/assets/d621a289-cc78-4a9b-9984-a857c42980b2" align=middle />
+</a>
+
+
+
 <p></p>
 
 <a href="discord.com/users/412943982469840897">
