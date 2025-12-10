@@ -19,5 +19,6 @@
 ![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <h4>
-  
+  <img src="https://github.com/user-attachments/assets/b3150f74-43a5-450f-8630-3f67d435dc0c" width="55" height="55" align="middle">
+  A little more about me...
 </h4>
