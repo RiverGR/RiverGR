@@ -82,4 +82,3 @@ ___
     <img width="30" height="30" alt="discord" src="https://github.com/user-attachments/assets/a379af56-7985-4bb3-90bc-77be4c6ce0d0"/>
   </a>
 </div>
-
